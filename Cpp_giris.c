@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	cout << "Merhaba C++\n";
-
+ 
 	cout << "Lutfen iki sayi giriniz...\n";
 
 	int sayi1, sayi2;
