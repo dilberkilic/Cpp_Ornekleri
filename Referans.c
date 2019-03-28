@@ -5,7 +5,7 @@ int funcCbyVal(int x) // FONKSİYONU REFERANS İLE ÇAĞIRMA.
 {
 	x += 10;
 	return x;
-}
+} 
 void funcCbyPtr(int*x)
 {
 	*x += 10;
