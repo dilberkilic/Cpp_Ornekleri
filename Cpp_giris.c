@@ -17,7 +17,7 @@ int main()
 	cout << "Iki sayinin toplami = " << sayi1 + sayi2 <<std::endl;
 
 
-
+ 
 
 	system("pause");
 	return 0;
