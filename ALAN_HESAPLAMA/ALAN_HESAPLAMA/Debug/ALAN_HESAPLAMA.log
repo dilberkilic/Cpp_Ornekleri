@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\user\desktop\kodlap c++ projelerİ\alan_hesaplama\alan_hesaplama\source.cpp(4): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\user\desktop\kodlap c++ projelerİ\alan_hesaplama\alan_hesaplama\source.cpp(11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\kodlap c++ projelerİ\alan_hesaplama\alan_hesaplama\source.cpp(33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\user\desktop\kodlap c++ projelerİ\alan_hesaplama\alan_hesaplama\source.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\kodlap c++ projelerİ\alan_hesaplama\alan_hesaplama\source.cpp(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\user\desktop\kodlap c++ projelerİ\alan_hesaplama\alan_hesaplama\source.cpp(50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ALAN_HESAPLAMA.vcxproj -> C:\Users\user\Desktop\KODLAP C++ PROJELERİ\ALAN_HESAPLAMA\Debug\ALAN_HESAPLAMA.exe

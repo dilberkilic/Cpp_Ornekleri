@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+c:\users\user\desktop\kodlap c++ projelerİ\İşaretçİler\İşaretçİler\kaynak.cpp(7): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\user\desktop\kodlap c++ projelerİ\İşaretçİler\İşaretçİler\kaynak.cpp(8): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  İŞARETÇİLER.vcxproj -> C:\Users\user\Desktop\KODLAP C++ PROJELERİ\İŞARETÇİLER\Debug\İŞARETÇİLER.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\desktop\kodlap c++ projelerİ\sayi_tahmİn\sayi_tahmİn\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SAYI_TAHMİN.vcxproj -> C:\Users\user\Desktop\KODLAP C++ PROJELERİ\SAYI_TAHMİN\Debug\SAYI_TAHMİN.exe

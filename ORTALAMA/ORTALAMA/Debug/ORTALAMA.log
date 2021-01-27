@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+c:\users\user\desktop\kodlap c++ projelerİ\ortalama\ortalama\kaynak.cpp(15): warning C4244: 'return': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  ORTALAMA.vcxproj -> C:\Users\user\Desktop\KODLAP C++ PROJELERİ\ORTALAMA\Debug\ORTALAMA.exe
